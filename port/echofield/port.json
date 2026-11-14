@@ -11,9 +11,9 @@
     "porter": [
       "Philip Bos"
     ],
-    "desc": "An original, experimental granular sampler. Record your FM-1 (or any class-compliant USB audio device) straight into the handheld and turn it into clouds, shards, tape smears, ghosts, pulses and drifting textures.",
+    "desc": "An original, experimental granular sampler. A few seconds of sound become an endless, drifting field of grains: six scenes, four visualisers, the analog sticks as effects, and 14 ready-made sounds.",
     "desc_md": null,
-    "inst": "Ready to run. Connect a USB audio interface to the OTG port to record; factory samples are included.",
+    "inst": "Ready to run. Factory sounds are included; copy your own WAV files to ports/echofield/userdata/samples.",
     "inst_md": null,
     "genres": [
       "other"

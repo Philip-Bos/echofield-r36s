@@ -3,7 +3,7 @@
   <game>
     <path>./Echofield.sh</path>
     <name>ECHOFIELD</name>
-    <desc>An original, experimental granular sampler for the R36S. Record the FM-1 or any USB audio device and turn small fragments of sound into evolving textures: six synthesis modes, tape processing, reverb, delay, shimmer and the DRIFT ORACLE generative layer.</desc>
+    <desc>An original, experimental granular sampler for the R36S. A few seconds of sound become an endless, drifting field of grains: six scenes, four visualisers, the analog sticks as effects (tone, reverb, echo, shimmer), tape processing and the DRIFT ORACLE generative layer.</desc>
     <releasedate>20261030T000000</releasedate>
     <developer>Philip Bos</developer>
     <publisher>Philip Bos</publisher>
