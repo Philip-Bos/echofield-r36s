@@ -1,7 +1,7 @@
-# ECHOFIELD: tests that need a real R36S
+# ECHOFIELD: hardware checklist
 
-ECHOFIELD has not been run on an R36S yet: the aarch64 binary is built and statically checked, and everything else is
-tested on desktop. If you have one, please run these in order and note the result. The in-app **DIAGNOSTICS** page and
+ECHOFIELD has been tested on a real R36S. If something doesn't work on your unit or firmware, run these in order and
+note the result. The in-app **DIAGNOSTICS** page and
 `ports/echofield/log.txt` hold the details; a saved report is written to `ports/echofield/userdata/diagnostics.txt`.
 
 | # | Test | How | Pass when |

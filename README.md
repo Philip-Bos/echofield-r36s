@@ -18,10 +18,7 @@
   <img src="docs/img/field.gif" width="400" alt="the FIELD visualiser: the sample as a dot matrix with the grains on top">
 </p>
 
-> [!WARNING]
-> **Not yet tested on a real R36S.** The aarch64 binary is built and statically checked, and the engine, file formats and
-> UI pass automated tests on desktop, but nobody has run it on the handheld yet. If you try it, please report what
-> happens ([what to check](docs/HARDWARE_TESTS.md)).
+<p align="center"><b>✓ Tested on a real R36S.</b></p>
 
 > [!NOTE]
 > **Recording from a USB audio input is not working yet** in this version. Play the factory sounds or copy your own WAV
@@ -155,6 +152,7 @@ If the ports partition is read-only, ECHOFIELD uses `~/.local/share/echofield/` 
 - **Black screen or it quits at once:** read `ports/echofield/log.txt`.
 - **No sound:** *DIAGNOSTICS* shows the audio output; check the system volume (ArkOS volume keys).
 - **Crackles:** lower *SETTINGS → MAX GRAINS* to 24–32, or turn on *ECO MODE*.
+- **Something else:** run through the [hardware checklist](docs/HARDWARE_TESTS.md) and send the results.
 - **Over SSH:** `cd /roms/ports/echofield && ./echofield.aarch64 --diag` prints a system report, and `--bench 5`
   measures DSP speed per scene.
 
