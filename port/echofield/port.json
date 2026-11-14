@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "name": "echofield.zip",
+  "items": [
+    "Echofield.sh",
+    "echofield"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "ECHOFIELD",
+    "porter": [
+      "Philip Bos"
+    ],
+    "desc": "An original, experimental granular sampler. Record your FM-1 (or any class-compliant USB audio device) straight into the handheld and turn it into clouds, shards, tape smears, ghosts, pulses and drifting textures.",
+    "desc_md": null,
+    "inst": "Ready to run. Connect a USB audio interface to the OTG port to record; factory samples are included.",
+    "inst_md": null,
+    "genres": [
+      "other"
+    ],
+    "image": {
+      "screenshot": "screenshot.png"
+    },
+    "rtr": true,
+    "exp": true,
+    "runtime": null,
+    "reqs": [],
+    "arch": [
+      "aarch64"
+    ]
+  }
+}
